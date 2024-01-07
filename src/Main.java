@@ -8,7 +8,13 @@ public class Main {
 
             System.out.println("Child Thread");
         }
-    }public void runa() {
+    }public void rundddddddddddda() {
+        for(int i=0; i<5; i++){
+
+            System.out.println("Child Thread");
+        }
+    }
+    public void runaaa() {
         for(int i=0; i<5; i++){
 
             System.out.println("Child Thread");
